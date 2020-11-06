@@ -1,0 +1,12 @@
+for android studio,
+pull this repository and open it in android studio.
+then compile and run.
+*It works in both android and ios*
+
+For mobile device,
+open document manipulator.apk in your device
+click in install
+wait for some time
+Installed
+
+**if not installed, check installation permission from unkown resources
