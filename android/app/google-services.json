@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198755365723",
+    "firebase_url": "https://doc-manipulator.firebaseio.com",
+    "project_id": "doc-manipulator",
+    "storage_bucket": "doc-manipulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198755365723:android:346290d7e54d7fb967207e",
+        "android_client_info": {
+          "package_name": "com.fireship.document_manipulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198755365723-ifpkcj3k0g22n0ncplg5rmjuek8ch2hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fireship.document_manipulator",
+            "certificate_hash": "d1490d53caeda7ba3decc51ff00c2727915d3291"
+          }
+        },
+        {
+          "client_id": "198755365723-7lbu90aevb27i4dr97t2mn10fad1lfc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAT-THx_DHO6VhKJozzPr-WSJI7dw7hMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198755365723-7lbu90aevb27i4dr97t2mn10fad1lfc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
