@@ -1,4 +1,4 @@
-Download the app from this link :- https://drive.google.com/file/d/1uHe2l6t-3q9kUtyUilufCQmIsscXKUcu/view?usp=sharing
+Download the app from this link :- https://drive.google.com/file/d/12LM79JAYhEfsGP39OLlJPQ4Tv3jBlnRC/view?usp=sharing
 
 for android studio,
 pull this repository and open it in android studio.
