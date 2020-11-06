@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">198755365723-7lbu90aevb27i4dr97t2mn10fad1lfc4.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://doc-manipulator.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">198755365723</string>
+    <string name="google_api_key" translatable="false">AIzaSyBAT-THx_DHO6VhKJozzPr-WSJI7dw7hMY</string>
+    <string name="google_app_id" translatable="false">1:198755365723:android:346290d7e54d7fb967207e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAT-THx_DHO6VhKJozzPr-WSJI7dw7hMY</string>
+    <string name="google_storage_bucket" translatable="false">doc-manipulator.appspot.com</string>
+    <string name="project_id" translatable="false">doc-manipulator</string>
+</resources>
